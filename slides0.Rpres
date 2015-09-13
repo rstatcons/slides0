@@ -1,11 +1,26 @@
 В 21-м веке следует использовать R
 ========================================================
-author: Александр Матрунич, д-р Джим Маас, Маркус Каину
+author: Александр Матрунич, д-р Джим Мас, Маркус Кайну
 date: `r format(Sys.time(), "%e.%m.%Y %T%z")`
 
-<!---
+<!--
 Title: One should use R in 21st century
 -->
+
+Шквал объёмов информации и многообразие форматов данных
+=========================
+
+Развитие информационных технологий привело к взрывному росту регистрируемых, передаваемых и хранимых данных. Многие стороны жизни людей и деятельности организаций теперь поддерживаются с помощью гаджетов, специализированных приложений и сервисов. 
+
+
+<!--
+Storm of information volumes and diversity of data formats
+================
+
+Development of IT leads to explosive increase of registered, transmitted and stored data. Many aspects of people life and organizations' activities are supported now by gadgets, software and services.
+-->
+
+
 
 What is R
 ======================
