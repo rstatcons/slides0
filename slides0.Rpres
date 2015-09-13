@@ -1,5 +1,6 @@
 В 21-м веке следует использовать R
 ========================================================
+output: ioslides_presentation
 css: slides.css
 transition: fade
 transition-speed: fast
@@ -26,6 +27,10 @@ Development of IT leads to explosive increase of registered, transmitted and sto
 -->
 
 
+Один в поле не воин
+========================
+
+Сегодня компания в одиночку не в силах покрыть потребности всех потенциальных клиентов. Nokia, изобретатель смартфонов, пошла по пути самостоятельной разработки приложений для своих телефонов.
 
 What is R ?
 ======================
