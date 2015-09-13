@@ -43,24 +43,40 @@ Apple succeded in attracting of external developers for AppStore and created a c
 -->
 
 
-What is R ?
+Сообщество в действии
+=========================
+
+Google Play и Apple AppStore - это яркие примеры удачного использования преимуществ сообщества разработчиков по сравнению с усилиями компании, которая в одиночку пытается создать решения для всего разнообразия потребностей клиентов.
+
+Другими примерами успешной деятельности сообществ являются свободная энциклопедия Wikipedia, семейство операционных систем GNU/Linux, среда статистической обработки данных R.
+
+<!--
+Community in action
+
+Google Play and Apply AppStore are bright examples of successful using of benifits of community of developers instead of a company, what tries to create solutions for all possible needs of clients.
+
+Other variants of success of communities are Wikipedia, GNU/Linux, R
+-->
+
+
+What is R
 ======================
 
-## History (open-source clone of powerful "S"" language, current statistics)
+## History (S language, New Zealand, current statistics)
 
-## Current structure (R-base programme plus thousands of additionan packages for specific tasks)
+## Current structure (R-base + thousands of packages)
 
-## Commercial providers (Microsoft, Oracle, IBM ?not sure what you are trying to say here or what your pint is ?)
+## Commercial providers (Microsoft, Oracle, IBM)
 
 # Why R
 
-## Price, open source (OS), cost of software is free
+## Price
 
-## Strong user community for help -> OS model depends on collaboration, StackOverflow 
+## Strong community -> extensive info is available
 
-## Develops extremely rapidly, building on existing code base
+## Free software with open source: rapid development of statistical methods
 
-Today you invent and implement, tomorrow it is available to everybody if you choose to share it
+Today you invent and implement, tomorrow it is available to everybody
 
 Why not R (difficulties with R)
 ==================================
