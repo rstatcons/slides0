@@ -1,6 +1,5 @@
 R - передовой инструментарий аналитика
 ========================================================
-output: ioslides_presentation
 css: slides.css
 transition: fade
 transition-speed: fast
