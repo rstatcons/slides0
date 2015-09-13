@@ -1,4 +1,5 @@
-.Rrpoj.user
+.Rproj.user
 *.md
-*.Proj
+*.Rproj
 slides0-figure
+*.swp
