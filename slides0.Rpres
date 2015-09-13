@@ -1,7 +1,7 @@
 slides0
 ========================================================
-author: Alex
-date: 
+author: Alexander Matrunich, Jim Maas, Markus Kainu
+date: `r Sys.time()`
 
 
 
