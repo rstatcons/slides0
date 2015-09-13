@@ -32,24 +32,24 @@ Development of IT leads to explosive increase of registered, transmitted and sto
 
 Сегодня компания в одиночку не в силах покрыть потребности всех потенциальных клиентов. Nokia, изобретатель смартфонов, пошла по пути самостоятельной разработки приложений для своих телефонов.
 
-What is R
+What is R ?
 ======================
 
-## History (S language, New Zealand, current statistics)
+## History (open-source clone of powerful "S"" language, current statistics)
 
-## Current structure (R-base + thousands of packages)
+## Current structure (R-base programme plus thousands of additionan packages for specific tasks)
 
-## Commercial providers (Microsoft, Oracle, IBM)
+## Commercial providers (Microsoft, Oracle, IBM ?not sure what you are trying to say here or what your pint is ?)
 
 # Why R
 
-## Price
+## Price, open source (OS), cost of software is free
 
-## Strong community -> extensive info is available
+## Strong user community for help -> OS model depends on collaboration, StackOverflow 
 
-## Free software with open source: rapid development of statistical methods
+## Develops extremely rapidly, building on existing code base
 
-Today you invent and implement, tomorrow it is available to everybody
+Today you invent and implement, tomorrow it is available to everybody if you choose to share it
 
 Why not R (difficulties with R)
 ==================================
