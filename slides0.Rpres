@@ -1,5 +1,6 @@
 В 21-м веке следует использовать R
 ========================================================
+output: ioslides_presentation
 css: slides.css
 transition: fade
 transition-speed: fast
