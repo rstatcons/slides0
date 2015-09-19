@@ -3,3 +3,4 @@
 *.Rproj
 slides0-figure
 *.swp
+.Rhistory
