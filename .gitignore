@@ -1,6 +1,6 @@
 .Rproj.user
 *.md
 *.Rproj
-slides0-figure
+# slides0-figure
 *.swp
 .Rhistory
