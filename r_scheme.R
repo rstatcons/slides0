@@ -14,10 +14,13 @@ nodes <-
   create_nodes(nodes = c("base", "board", expnodes, libnodes, devnodes),
                label = c("Ядро R", "Совет\nэкспертов", explabels, liblabels, devlabels),
                type = "lower",
-               style = "filled",
-               color = "aqua",
+               # style = "filled",
+               color = "black",
                shape = c("circle", "rectangle", rep("triangle", numbofexp),
-                         rep("circle", numboflibs)))
+                         rep("circle", numboflibs)) #,
+#                y = c(200, 100, rep(20, numbofexp), rep(300, numboflibs), rep(400, numbofdevs)),
+#                x = 400
+               )
 
 devslibsedges <- list(from = sample(devnodes, numbofdevs * 2, replace = T),
                       to   = sample(libnodes, numbofdevs * 2, replace = T))
@@ -37,5 +40,5 @@ graph <- create_graph(nodes_df = nodes,
                                      "fixedsize = true"),
                       edge_attrs = c("arrowsize = 0.5"))
 
-render_graph(graph)
+cat(render_graph(graph, output = "SVG"), file = "r_scheme.svg")
 
