@@ -19,9 +19,12 @@ nodes <-
                shape = c("circle", "rectangle", rep("triangle", numbofexp),
                          rep("circle", numboflibs)))
 
+devslibsedges <- list(from = sample(devnodes, numbofdevs * 2, replace = T),
+                      to   = sample(libnodes, numbofdevs * 2, replace = T))
+
 edges <-
-  create_edges(from = c("board", expnodes, libnodes),
-               to = c("base", rep("board", numbofexp), rep("base", numboflibs)),
+  create_edges(from = c("board", expnodes, libnodes, devslibsedges[['from']]),
+               to = c("base", rep("board", numbofexp), rep("base", numboflibs), devslibsedges[['to']]),
                relationship = "leading_to")
 
 graph <- create_graph(nodes_df = nodes,
